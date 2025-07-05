@@ -23,6 +23,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'categories',  # ✅ Add this line
+    'amenities',  # ✅ Add this line
 
     'events',
     'hosts',
